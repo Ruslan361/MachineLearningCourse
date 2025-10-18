@@ -1,6 +1,8 @@
 
 # 🚗 Russian Auto Dataset — Цены и характеристики автомобилей на Avito
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruslan361/MachineLearningCourse/blob/master/homework/avito-avto-final.ipynb)
+
 ## 📖 Описание
 
 Данный набор данных содержит актуальные объявления о продаже автомобилей на [Avito](https://www.avito.ru) — крупнейшей площадке объявлений в России.
